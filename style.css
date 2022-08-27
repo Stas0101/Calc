@@ -10,8 +10,7 @@
   position:relative;
   left: 50px;
   top: 100px;
-  transform: skewY(-32deg);
-}
+ }
 input[type="text"] {
   width: 100%;
   color: #000000;
