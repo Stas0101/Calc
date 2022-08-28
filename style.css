@@ -8,9 +8,13 @@
   box-shadow: 0 3px 15 px gray;
   border: 1px rgb(0, 0, 0);
   position:relative;
-  left: 50px;
+  left: 250px;
   top: 100px;
-  transform: skewY(-32deg);
+  transform: skewY(-12deg);
+}
+#app:hover {
+  transform: scale(1.5);
+  animation-fill-mode:forwards;
 }
 input[type="text"] {
   width: 100%;
