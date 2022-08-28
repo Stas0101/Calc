@@ -10,12 +10,16 @@
   position:relative;
   left: 250px;
   top: 100px;
+<<<<<<< HEAD
   transform: skewY(-12deg);
 }
 #app:hover {
   transform: scale(1.5);
   animation-fill-mode:forwards;
 }
+=======
+ }
+>>>>>>> 009e85db1b49db6ea59bd1d94e6f9a3aefae66f1
 input[type="text"] {
   width: 100%;
   color: #000000;
